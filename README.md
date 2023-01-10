@@ -26,7 +26,9 @@ Jupyter Notebook
 <li>
 SQL
 <li>
-Machine Learning (Supervised Models)
+Machine Learning
+<li>
+ Webscraping
 <li>
 Deployment in Heroku
 <li>
