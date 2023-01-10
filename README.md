@@ -63,3 +63,19 @@ Applications with Flask
 <li>
 <strong>Git Repository</strong>
 : https://github.com/pedrocortez09/health_insurance_cross-sell
+ 
+ 
+ ### Insiders Cluster
+<li>
+<strong>Business Problem</strong>
+:  An Ecommerce called All in One Place sell second-line products from various brands at a lower price. After a year of operation, the marketing team wants to release the "Insiders Program". The program consists in segment customers based on their similarities (looking into recency, frequency and gross revenue).
+<li>
+<strong>Solution</strong>
+: With customer transaction data, it was possible to create new features in order to group customers based on their similarities. For this, Machine Learning algorithms such as KNN, GMM and HC were used. In addition to embedding techniques for forming the clusters.
+<li>
+<strong>Conclusion</strong>
+: With the clusters formed, it was possible to assess the strengths and weaknesses of each one of them, in order to create personalized marketing strategies.
+<li>
+<strong>Git Repository</strong>
+: https://github.com/pedrocortez09/insiders_clustering
+
