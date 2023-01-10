@@ -78,4 +78,19 @@ Applications with Flask
 <li>
 <strong>Git Repository</strong>
 : https://github.com/pedrocortez09/insiders_clustering
+ 
+ 
+  ### Cardio Catch Disease
+<li>
+<strong>Business Problem</strong>
+:  Cardio Catch Diseases is a company specialized in detecting heart disease in the early stages. Its business model lies in offering an early diagnosis of cardiovascular disease for a certain price. Currently, the diagnosis of cardiovascular disease is manually made by a team of specialists. The current accuracy of the diagnosis varies between 55% and 65%. The price of the diagnosis, paid by the client, varies according to the precision achieved by the team of specialists. That make the company either have a profitable operation, revenue greater than the cost, or an operation with a loss, revenue less than the cost. This instability of the diagnosis makes the company to have an unpredictable cashflow.
+<li>
+<strong>Solution</strong>
+: With data from old patients it was possible to use a Machine Learning model to detect heart problems in new patients. Having a defined exam precision, the company would have a fixed value for each exam, and could project the annual billing
+<li>
+<strong>Conclusion</strong>
+: The model has an accuracy of 74%, which would mean a profit of $148.4MM in the best case, for a base of 70k customers.
+<li>
+<strong>Git Repository</strong>
+: https://github.com/pedrocortez09/cardio_catch_disease
 
