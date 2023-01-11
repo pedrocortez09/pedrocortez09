@@ -35,6 +35,21 @@ Deployment in Heroku
 Applications with Flask
 
 ## Data Science Projects
+ 
+ 
+### Curry Company - Online Panel Dashboards
+<li>
+<strong>Business Problem</strong>
+: Curry Company created an application that connects restaurants, delivery people and people. Through the application it is possible to order food at any registered restaurant and receive it in the comfort of your home by one of our registered deliveryman. With so many requests being made, the database grew and my goal was to create dashboards for viewing the main business metrics through a web page where the CEO could easily interact and view.
+<li>
+<strong>Solution</strong>
+: Creation of an online panel with interactive dashboards, where the CEO will be able to see growth metrics for the company, partner restaurants and couriers.
+<li>
+<strong>Conclusion</strong>
+: The objective of this project is to create graphs and tables that display the metrics in the best possible way to help the CEO of the company. We can conclude that the number of orders increased considerably between weeks 05 and 13 of the year 2022.
+<li>
+<strong>Git Repository</strong>
+: https://github.com/pedrocortez09/curry_company
 
 ### Sales Predict - Rossmann Store
 <li>
